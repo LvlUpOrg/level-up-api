@@ -10,7 +10,7 @@ Build the application by running:
 
 Run the application with:
 
-`java -jar build/libs/gs-spring-boot-0.1.0.jar`
+`java -jar build/libs/level-up-api-0.1.0.jar`
 
 Access the web application at:
 
