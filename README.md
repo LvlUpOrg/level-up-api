@@ -1,5 +1,9 @@
 # level-up
 
+Install gradle:
+
+`brew install gradle`
+
 Build the application by running:
 
 `gradle clean build`
