@@ -1,3 +1,5 @@
+package com.levelup;
+
 import java.util.Arrays;
 
 import org.springframework.boot.SpringApplication;
